@@ -1,2 +1,2 @@
 # Leetcode_python
-使用 python 的 leetcode 击败100% 代码
+Leetcode 解题思路 与 python源码
